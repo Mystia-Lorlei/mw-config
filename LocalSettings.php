@@ -2676,6 +2676,7 @@ $wgConf->settings = array(
 		'bgowiki' => "//$wmgUploadHostname/bgowiki/6/64/Favicon.ico",
 		'carvingwiki' => "//$wmgUploadHostname/carvingwiki/6/64/Favicon.ico",
 		'christipediawiki' => "//$wmgUploadHostname/christipediawiki/e/e7/Logo_Christipedia.jpg",
+		'chromiumrosewiki' => "$wmgEpicKetchup/chromiumrosewiki/5/5b/ChromiumRose135x135.png",
 		'clementsworldbuildingwiki' => "//$wmgUploadHostname/clementsworldbuildingwiki/8/8b/CW_favicon.ico",
 		'crankipediawiki' => "//$wmgUploadHostname/crankipediawiki/4/4c/Crankilogo.png",
 		'cssandjsschoolboardwiki' => '//upload.wikimedia.org/wikipedia/commons/2/2b/Page_css_48.png',
